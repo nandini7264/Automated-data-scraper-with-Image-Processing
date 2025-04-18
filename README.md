@@ -1,4 +1,4 @@
-# Automated-data-scraper-with-Image-Processing
+# Automated-Amazon-scraper-with-Image-Processing
 
 Scraped Amazon using Selenium Webdriver and BeautifulSoup.
 Sorted the data using OS Module and automated navigations using Action Chain Object according to user requirements.
